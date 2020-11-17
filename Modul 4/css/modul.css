@@ -1,0 +1,18 @@
+body {
+  font: Helvetica, sans-serif;
+  color: #f84141;
+}
+
+.content {
+  background-color: cornflowerblue;
+  color: white;
+}
+
+.empat {
+  padding: 20px;
+  background-color: deeppink;
+  color: aliceblue;
+  margin-left: 330px;
+}
+
+/*# sourceMappingURL=modul.css.map */

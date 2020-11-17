@@ -1,0 +1,56 @@
+.wrap {
+  background: #87CEEB;
+  width: 784px;
+  margin: 10px auto;
+  font-family: calibri;
+}
+
+header {
+  width: 784px;
+  height: 20px;
+  text-align: center;
+}
+
+nav {
+  background: blue;
+}
+nav ul {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+nav ul li {
+  float: left;
+  list-style-type: none;
+  padding: 10px;
+}
+
+.clear {
+  clear: both;
+}
+
+.container {
+  height: auto;
+}
+.container article {
+  background: #87CEEB;
+  float: left;
+  height: 100%;
+  width: 666px;
+  text-align: center;
+}
+.container article section {
+  padding-bottom: 200px;
+  margin: 20px;
+}
+
+footer {
+  background: pink;
+  width: 784px;
+  height: 100px;
+  padding-top: 40px;
+  text-align: center;
+  color: black;
+}
+
+/*# sourceMappingURL=style.css.map */

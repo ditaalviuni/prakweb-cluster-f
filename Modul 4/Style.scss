@@ -1,0 +1,60 @@
+$wdt:784;
+	
+	.wrap {
+	  background: #87CEEB;
+	  width: $wdt * 1px;
+	  margin: 10px auto;
+	  font-family: calibri;
+	}
+	
+	header {
+	  width: $wdt * 1px;
+	  height: 20px;
+	  text-align: center;
+	}
+	
+	nav{
+	  background: blue;
+	  
+	  ul{
+	    padding: 0;
+	    margin: 0;
+	    overflow: hidden;
+	
+	    li{
+	      float: left;
+	      list-style-type: none;
+	      padding: 10px;
+	    }
+	  }
+	}
+	 
+	.clear {
+	  clear: both;
+	}
+	
+	.container {
+	  height: auto;
+	
+	  article {
+	  background:#87CEEB;
+	  float: left;
+	  height: 100%;
+	  width: 666px;
+	  text-align: center;
+	
+	    section{
+	      padding-bottom: 200px  ;
+	      margin: 20px;  
+	    }
+	  }
+	}
+	
+	footer {
+	  background:pink;
+	  width: $wdt * 1px;
+	  height: 100px;
+	  padding-top: 40px;
+	  text-align: center;
+	  color : black;
+	}
