@@ -14,7 +14,6 @@
     <form action="tambah.php" method="POST" enctype="multipart/form-data">
         NRP : <input type="text" name="nrp"><br><br>
         nama : <input type="text" name="nama"><br><br>
-        Foto : <input type="file" name="foto"><br><br>
         <select name="jurusan" id="">
             <?php
                 $conn = mysqli_connect("localhost", "root", "", "mahasiswa") or die("koneksi database gagal");
