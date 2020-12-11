@@ -1,1 +1,0 @@
-alert('contoh eksternal script');
